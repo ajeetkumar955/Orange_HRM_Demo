@@ -1,0 +1,22 @@
+{
+  "name": "orange_hrm_demo",
+  "version": "1.0.0",
+  "description": "Orange HRM Demo Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajeetkumar955/Orange_HRM_Demo.git"
+  },
+  "author": "Ajeet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajeetkumar955/Orange_HRM_Demo/issues"
+  },
+  "homepage": "https://github.com/ajeetkumar955/Orange_HRM_Demo#readme",
+  "devDependencies": {
+    "cypress": "^14.3.3"
+  }
+}
